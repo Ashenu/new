@@ -24,4 +24,4 @@
    **3. What is the use of Readme file and gitignore**
    1. **Readme file**: Provides essential information about the project, including its purpose, installation instructions, usage guidelines, and contribution guidelines. It helps users and contributors understand the project quickly and effectively.
 
-2. **Gitignore**: Specifies intentionally untracked files that Git should ignore. This includes files generated during the development process, such as compiled binaries, temporary files, and sensitive information like API keys. Gitignore helps keep the repository clean and prevents unnecessary files from being tracked and shared.
+1. **Gitignore**: Specifies intentionally untracked files that Git should ignore. This includes files generated during the development process, such as compiled binaries, temporary files, and sensitive information like API keys. Gitignore helps keep the repository clean and prevents unnecessary files from being tracked and shared.

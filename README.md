@@ -15,11 +15,11 @@
 **2. Prominent code management tools in the industry**
 + Prominent code management tools in the industry include:
 
-1. **Git**: Widely used for version control and collaboration.
-2. **GitHub**: A platform built around Git, offering hosting, collaboration features, and community.
-3. **GitLab**: Provides similar features to GitHub, including version control, collaboration, and CI/CD pipelines.
-4. **Bitbucket**: Offers Git and Mercurial version control systems, along with collaboration tools.
-5. **Subversion (SVN)**: Another version control system, although less popular compared to Git-based solutions.
+    1. **Git**: Widely used for version control and collaboration.
+    2. **GitHub**: A platform built around Git, offering hosting, collaboration features, and community.
+    3. **GitLab**: Provides similar features to GitHub, including version control, collaboration, and CI/CD pipelines.
+    4. **Bitbucket**: Offers Git and Mercurial version control systems, along with collaboration tools.
+   5. **Subversion (SVN)**: Another version control system, although less popular compared to Git-based solutions.
 
    **3. What is the use of Readme file and gitignore**
    1. **Readme file**: Provides essential information about the project, including its purpose, installation instructions, usage guidelines, and contribution guidelines. It helps users and contributors understand the project quickly and effectively.
